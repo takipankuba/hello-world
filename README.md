@@ -1,2 +1,4 @@
 # hello-world
-Just another repo
+Hi there! 
+
+This is a text that is logged into seperate branch.
